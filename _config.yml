@@ -1,13 +1,15 @@
 # Site Settings
-name: مهندسی اجتماعی
-title: مهندسی اجتماعی
-description: کتابچه نکات مهندسی اجتماعی
+name: سخت افزار و سیستم های باینری
+title: سخت افزار و سیستم های باینری
+description: کتابچه نکات امنیت سخت افزار و نرم افزار های سیستمی
 tags:
-  - social
-  - engineering
+  - hardware
+  - binary
+  - system
+  - os
+  - سخت_افزار
+  - سیستم_عامل
   - امنیت
-  - مهندسی_اجتماعی
-  - هکر
 show_hero: true
 
 
@@ -35,7 +37,7 @@ two_columns_layout: true
 # Advanced Settings
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
-google_analytics: "UA-XXXXXXXX-X"
+google_analytics: "UA-162346265-1"
 language: "en"
 
 
